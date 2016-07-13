@@ -1,0 +1,5 @@
+1. Create an interface that defines three methods (grant withdrawal, apply fees, apply interest)
+2. 3 classes. one for each variation of logic.
+3. Just add them as classes.
+4. Add that as a method with a boolean paramater representing granting special permissions.
+5. There might be only if there is similarity in algorithms between the variations of logic.
